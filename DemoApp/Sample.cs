@@ -8,6 +8,8 @@ namespace DemoApp
 {
     class Sample
     {
+        private string firstName;
+        private string lastName;
 
     }
 }
