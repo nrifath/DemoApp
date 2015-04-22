@@ -6,3 +6,6 @@ F:\SEIP\ASP.NET\BATCH03\DemoApp\DemoApp\obj\Debug\DemoApp.Properties.Resources.r
 F:\SEIP\ASP.NET\BATCH03\DemoApp\DemoApp\obj\Debug\DemoApp.csproj.GenerateResource.Cache
 F:\SEIP\ASP.NET\BATCH03\DemoApp\DemoApp\obj\Debug\DemoApp.exe
 F:\SEIP\ASP.NET\BATCH03\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
+F:\SEIP\ASP.NET\BATCH04\DemoApp\DemoApp\bin\Debug\DemoApp.exe.config
+F:\SEIP\ASP.NET\BATCH04\DemoApp\DemoApp\obj\Debug\DemoApp.exe
+F:\SEIP\ASP.NET\BATCH04\DemoApp\DemoApp\obj\Debug\DemoApp.pdb
